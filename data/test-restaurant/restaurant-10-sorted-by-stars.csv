@@ -1,0 +1,6 @@
+RID,Name,OwnerFirstName,OwnerLastName,Cuisine,EstablishmentType,PriceRange,DateEstablished,Latitude,Longitude,VegetarianOptions,VeganOptions,GlutenFreeOptions,NutFreeOptions,LactoseFreeOptions,HalalOptions,LastInspectedDate,FoodInspectionRating,WarwickStars
+981297796237263398129779623726339812977962372633,The Custom House Turkish Cuisine,Adam,Novák,Brazilian,Takeaway,CheapEats,1951-11-11 12:27:51,52.30565,1.044021,true,false,false,false,true,false,2015-06-23 08:12:56,5,3
+565299569483174356529956948317435652995694831743,Draughts,Eva,Wallin,Spanish,Takeaway,CheapEats,2017-12-23 17:57:26,51.1479,-0.977198,true,false,false,false,true,true,2020-01-03 20:48:30,3,1
+198354269913467619835426991346761983542699134676,Lillys Pantry,Vicente,Matias,Soups,SnackBar,CheapEats,2003-04-21 02:19:06,51.42981,-0.422233,true,false,true,true,false,false,2018-07-12 15:20:26,3,1
+929978356172833692995835617283369299783561728336,Stones Restaurant,Dustin,Carroll,Scandinavian,StreetFood,FineDining,2013-03-17 08:15:34,54.36615,-8.043853,true,false,false,false,true,false,2020-02-15 22:03:18,4,1
+415873379522261141589337952226114158933795222611,Turkish Meze Mangal,Zachary,Mccarty,Turkish,Restaurant,CheapEats,1981-07-08 07:38:05,53.34172,-1.393601,true,false,false,false,true,false,2019-02-05 18:44:36,5,1
